@@ -1,12 +1,16 @@
 <h1>🔐 Sign In Page Automation</h1>
+
 Automating the Sign In Page using Selenium, Python, and the Page Object Model (POM) to ensure smooth login functionality across different scenarios.
 
-🚀 Tech Stack
-Python 🐍
-Selenium WebDriver 🌐
-Page Object Model (POM) 🏗️
-PyTest ✅
-📖 What is POM?
+<h2>🚀 Tech Stack</h2>
+<ul>
+  <li>Python 🐍</li>
+  <li>Selenium WebDriver 🌐</li>
+  <li>Page Object Model (POM) 🏗️</li>
+  <li>PyTest ✅</li>
+</ul>
+
+<h2>📖 What is POM?</h2>
 The Page Object Model (POM) is a design pattern used in Selenium automation. It separates web element interaction logic from test cases, improving test maintainability, reusability, and readability.
 
 🛠️ Key Benefits of POM:
