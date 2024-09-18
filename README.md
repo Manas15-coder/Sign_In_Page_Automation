@@ -18,5 +18,9 @@ Reusable page interaction methods.
 Clean and organized code structure.
 Easier maintenance when UI changes.
 
+<h2>How It Works ❓</h2>
+
+<img src='https://i.postimg.cc/YqLNKmwG/Screen-Recording-2024-09-18-133429-1.gif'/>
+
 
 
